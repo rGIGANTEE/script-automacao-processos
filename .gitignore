@@ -1,0 +1,30 @@
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+*.venv
+Pipfile
+Pipfile.lock
+
+# Logs e Arquivos Temporários
+logs/
+*.log
+*.tmp
+.DS_Store
+
+# Configurações do Editor
+.vscode/
+.idea/
+*.swp
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
+
+# Arquivos do Sistema
+Thumbs.db
+desktop.ini
+
